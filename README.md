@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **agaDeonix/agaDeonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Denis Mikhailov 👋
+
+## Languages 
+ - <a href="https://kotlinlang.org/">Kotlin  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="Kotlin" height="12" /></a>  
+ - <a href="https://www.java.com/">Java  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="14" /></a>  
+
 
 ## 🌱 I’m currently learning ...
 - KMM
