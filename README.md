@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         Currently learning KMM and Wear OS.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="[https://www.linkedin.com/in/agaDeonix](https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-9869ba9a/)">
+    <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-9869ba9a">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
